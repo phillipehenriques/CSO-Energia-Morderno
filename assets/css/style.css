@@ -347,12 +347,14 @@ p {
 }
 
 .team-skills {
-  padding-top: 6.5rem;
+  padding-top: 1vh;
+  margin-bottom: 1vh;
 }
 
 .perfil {
-  width: 200px;
+  width: 300px;
   height: auto;
+  margin-bottom: 4vh;
 }
 
 .form-group {
@@ -708,7 +710,19 @@ ul.caption-slides li {
   font-weight: 300;
   line-height: 1.45;
   text-transform: none;
-  color: #000;
+  color: black;
+}
+
+.big-title-sec .big-subtitle-new {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 1.3px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 1.45;
+  text-transform: none;
+  color: black;
 }
 
 .big-title-sec p {
@@ -1802,7 +1816,7 @@ ul.details-list li:last-child {
 /* I NEED A HERO */
 
 .landing-hero {
-  background: url('../images/background/backgroud-frontend.png');
+  background: url('../images/background/back1.png');
   background-size: cover;
   background-attachment: fixed;
 }
