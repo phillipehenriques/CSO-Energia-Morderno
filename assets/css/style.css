@@ -683,7 +683,7 @@ ul.caption-slides li {
 
 .big-title-sec {
   text-align: center;
-  padding-bottom: 40px;
+  padding-bottom: 10px;
 }
 
 
@@ -1990,6 +1990,11 @@ ul.features-list li {
 .lado {
   margin: 2rem;
   
+}
+
+.class-icon {
+  width: 60px;
+  height: auto;
 }
 
 .baixo {
