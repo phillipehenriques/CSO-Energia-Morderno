@@ -640,14 +640,19 @@ ul.caption-slides li {
 .logo-section {
   width: 250px;
   height: auto;
-  margin-bottom: 5vh;
+  margin-bottom: 3vh;
 }
 
 .caixa-bio {
-  margin: auto;
-  text-align: justify;
-  text-justify: inter-word;
+  margin-top: 5vh;
+  text-align: center;
   height: auto;
+  font-size: 10px;
+}
+
+.p-size {
+  font-size: 15px;
+  font-family: "Raleway", sans-serif
 }
 
 /***********************************************************************************************/
@@ -2006,8 +2011,7 @@ ul.features-list li {
 }
 
 .lado {
-  margin: 2rem;
-  
+  margin: 2rem; 
 }
 
 .class-icon {
@@ -2020,7 +2024,7 @@ ul.features-list li {
 }
 
 .offer-boxes {
-  margin-top: 3rem;
+  margin-top: 5vh;
 }
 
 .offer-post h4 {
