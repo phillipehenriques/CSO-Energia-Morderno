@@ -655,6 +655,21 @@ ul.caption-slides li {
   font-family: "Raleway", sans-serif
 }
 
+.titulo-vantagens {
+  font-size: 30px;
+  font-family: "Raleway", sans-serif;
+}
+
+.subtitulo-vantagens {
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  margin-bottom: 3vh;
+}
+
+.vantagens-m {
+  margin-bottom: 10vh;
+}
+
 .offer-icon-visao {
   font-size: 42px;
   color: #fc6e51;
@@ -2022,6 +2037,11 @@ ul.features-list li {
 
 .class-icon {
   width: 60px;
+  height: auto;
+}
+
+.class-icon2 {
+  width: 100px;
   height: auto;
 }
 
