@@ -143,7 +143,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 h1, .h1, h2, .h2, h3, .h3 {
-  margin-top: 0;
   margin-bottom: 20px;
 }
 
@@ -645,6 +644,7 @@ ul.caption-slides li {
 
 .caixa-bio {
   margin-top: 11vh;
+  margin-bottom: 5vh;
   text-align: center;
   height: auto;
   font-size: 10px;
@@ -655,9 +655,16 @@ ul.caption-slides li {
   font-family: "Raleway", sans-serif
 }
 
-.titulo-vantagens {
+.tvantagens {
+  font-size: 40px;
+  font-family: "Raleway", sans-serif;
+  margin-bottom: 3vh;
+}
+
+.tvantagens2 {
   font-size: 30px;
   font-family: "Raleway", sans-serif;
+  margin-bottom: 3vh;
 }
 
 .subtitulo-vantagens {
@@ -667,7 +674,7 @@ ul.caption-slides li {
 }
 
 .vantagens-m {
-  margin-bottom: 10vh;
+  margin-bottom: 7vh;
 }
 
 .offer-icon-visao {
@@ -761,8 +768,20 @@ ul.caption-slides li {
   font-family: 'Raleway', sans-serif;
   letter-spacing: 1.3px;
   margin-top: 0;
+  margin-bottom: 2px;
+  font-size: 34px;
+  font-weight: 300;
+  line-height: 1.45;
+  text-transform: none;
+  color: black;
+}
+
+.big-title-sec .big-subtitle-new2 {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 1.3px;
+  margin-top: 0;
   margin-bottom: 15px;
-  font-size: 32px;
+  font-size: 23px;
   font-weight: 300;
   line-height: 1.45;
   text-transform: none;
@@ -2050,7 +2069,7 @@ ul.features-list li {
 }
 
 .offer-boxes {
-  margin-top: 5vh;
+  /* margin-top: 5vh; */
 }
 
 .offer-post h4 {
