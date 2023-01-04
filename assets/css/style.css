@@ -683,6 +683,20 @@ ul.caption-slides li {
   margin-bottom: 15px;
 }
 
+.zoom_out { 
+  transition: 0.7s; 
+}
+.zoom_out:hover { 
+  transform: scale(0.95); 
+}
+
+.zoom_in { 
+  transition: 0.7s; 
+}
+.zoom_in:hover { 
+  transform: scale(1.10); 
+}
+
 /***********************************************************************************************/
 /* =About Section */
 /***********************************************************************************************/
