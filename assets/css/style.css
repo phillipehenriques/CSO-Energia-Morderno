@@ -564,7 +564,7 @@ p {
   position: absolute;
   content: '';
   top: 0;
-  left: 0;ent
+  left: 0;
   background: rgba(0, 0, 0, 0.4);
   width: 100%;
   height: 100%;
@@ -1884,7 +1884,7 @@ ul.details-list li:last-child {
   content: '';
   top: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0);  /* < < < < < < < < < < < < < < < < < < < < OPACIDADE */
+  background: rgba(0, 0, 0, 0);  /* < < < < < < < < < < < < < < < < < < < < < < < < < < < < < <BACKGROUNDD */
   width: 100%;
   height: 100%;
   z-index: 1;
@@ -1893,7 +1893,7 @@ ul.details-list li:last-child {
 /* I NEED A HERO */
 
 .landing-hero {
-  background: url('../images/background/back1.png');
+  background: url('../images/background/back4.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
