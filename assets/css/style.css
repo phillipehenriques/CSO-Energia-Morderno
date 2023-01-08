@@ -698,14 +698,19 @@ ul.caption-slides li {
 }
 
 .space-guide {
-  margin-top: 7vh;
+  margin-top: 13vh;
 }
 
 .img-guide {
   display: flex;
   width: 150px;
   height: auto;
-  margin-bottom: 5vh;
+  margin-bottom: 3vh;
+}
+
+.text-guide {
+  margin: auto;
+  text-align: center;
 }
 
 .justify {
