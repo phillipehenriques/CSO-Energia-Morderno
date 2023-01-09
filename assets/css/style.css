@@ -285,6 +285,17 @@ p {
   color: #fff;
 }
 
+.btn-black {
+  border-color: #0f0f0fcb;
+  color: #161616;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+.btn-black:hover, .btn-black:focus, .btn-black:active {
+  color: rgb(185, 10, 10);
+}
+
 .btn-dark {
   color: #FFF;
   text-transform: uppercase;
@@ -1052,7 +1063,7 @@ a:hover .overlay {
 .clients-bg {
   background: url('../images/clients/clients-bg.jpg') center top;
   position: relative;
-  padding: 60px 0;
+  padding: 246px 0;
 }
 
 .clients-bg:before {
@@ -1981,6 +1992,11 @@ ul.features-list li {
 
 .creative-content-left, .creative-content-right {
   padding-top: 100px;
+  padding-left: 2rem;
+}
+
+.creative-content-left, .creative-content-other {
+  padding-top: 125px;
   padding-left: 2rem;
 }
 
