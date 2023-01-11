@@ -736,6 +736,8 @@ ul.caption-slides li {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  gap: 15px;
+  padding: 20px;
 }
 
 .row-proc {
