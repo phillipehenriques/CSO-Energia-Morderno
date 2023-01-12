@@ -774,6 +774,7 @@ ul.caption-slides li {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-bottom: 10vh;
   gap: 5px
 }
 
@@ -787,7 +788,6 @@ ul.caption-slides li {
 }
 
 .footer-class {
-  margin-top: 4vh;
   margin-bottom: 2vh;
 }
 
