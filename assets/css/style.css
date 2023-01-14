@@ -192,6 +192,10 @@ p {
   padding: 100px 0!important;
 }
 
+.pad-sec2 {
+  padding: 135px 0!important;
+}
+
 .title-section {
   padding-left: 30px;
   padding-right: 30px;
@@ -788,7 +792,13 @@ ul.caption-slides li {
 }
 
 .footer-class {
+  margin-top: 2vh;
   margin-bottom: 2vh;
+}
+
+.pad {
+  text-align: center;
+  padding: 40px
 }
 
 #como-funciona {
@@ -1415,7 +1425,7 @@ h6.progress-value {
 }
 
 #banner {
-  background: url('../images/background/back1.jpg') center top;
+  background: url('../images/background/back1.webp') center top;
   position: relative;
   border-bottom: 1px solid transparent;
 }
@@ -1991,7 +2001,7 @@ ul.details-list li:last-child {
 /* I NEED A HERO */
 
 .landing-hero {
-  background: url('../images/background/back4.jpg');
+  background: url('../images/background/back4.webp');
   background-size: cover;
   background-attachment: fixed;
 }
@@ -3146,7 +3156,7 @@ ul.download li a img {
 /***********************************************************************************************/
 
 #footer-section {
-  padding: 80px 0;
+  padding: 30px 0;
   background: #F7F7F7;
   border-top: 1px solid #EEEEEE;
 }
@@ -3192,7 +3202,7 @@ ul.footer-social-links li a:after {
           transition: all .3s ease;
 }
 
-ul.footer-social-links li a:hover:after {
+ul.footer-social-links li cancelado :hover:after {
   opacity: 1;
   -webkit-transform: translateY(0);
      -moz-transform: translateY(0);
@@ -3202,7 +3212,7 @@ ul.footer-social-links li a:hover:after {
 }
 
 p.copyright {
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 /***********************************************************************************************/
